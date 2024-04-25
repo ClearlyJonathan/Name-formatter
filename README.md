@@ -1,0 +1,1 @@
+This is a simple name formatter. You're given several fields which you must at least fill in name and last name. You can then choose desired title and a formatting style. The application should then format accoordingly.
